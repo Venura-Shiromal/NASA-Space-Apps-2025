@@ -7,8 +7,8 @@ The goal is to leverage **machine learning** to analyze astronomical data and id
 
 ## 📂 Contents
 
-- **Data** – TOI (TESS Object of Interest) dataset used for training and evaluation.  
-- **Models** – Classification model built with **CatBoost**.  
-- **Notebooks / Scripts** – Python scripts for preprocessing, training, and evaluation.  
+- **Data** – TOI (TESS Object of Interest) dataset and K2 data set used for training and evaluation.  
+- **Models** – Classification models for TESS and K2 built with **CatBoost**.  
+- **Notebooks / Scripts** – Machine Learning Scripts for both TOI and K2 data.  
 
 ---
